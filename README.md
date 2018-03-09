@@ -8,4 +8,4 @@ Implementation of a fast and accurate FFT-based method for pricing options with 
 
 ## References
 
-More information relating this thesis can be found [here](http://repositorio.ul.pt/bitstream/10451/16032/1/ulfc112050_tm_Pedro_Oliveira.pdf).l
+More information relating this thesis can be found [here](http://repositorio.ul.pt/bitstream/10451/16032/1/ulfc112050_tm_Pedro_Oliveira.pdf).
